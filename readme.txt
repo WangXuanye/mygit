@@ -8,3 +8,4 @@ com.sankuai.meituan.test.testsuit.SearchSuiteTest,
 com.sankuai.meituan.test.testsuit.TakeoutSuiteTest,
 com.sankuai.meituan.test.testsuit.TravelSuiteTest,
 com.sankuai.meituan.test.testsuit.PaymentSuiteTest
+git is a free software
