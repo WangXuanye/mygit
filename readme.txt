@@ -9,3 +9,4 @@ com.sankuai.meituan.test.testsuit.TakeoutSuiteTest,
 com.sankuai.meituan.test.testsuit.TravelSuiteTest,
 com.sankuai.meituan.test.testsuit.PaymentSuiteTest
 git is a free software
+git is so good

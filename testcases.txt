@@ -1,0 +1,5 @@
+com.sankuai.meituan.test.Cases.city.CityTest,
+com.sankuai.meituan.test.Cases.account.LoginTest,
+com.sankuai.meituan.test.Cases.mainActivity.MainActivityTest,
+com.sankuai.meituan.test.Cases.detail.DealDetailTest,
+com.sankuai.meituan.test.Cases.detail.PoiDetailTest
